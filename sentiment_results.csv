@@ -1,0 +1,6 @@
+text,predicted_sentiment,confidence
+Love the camera on this phone! Amazing quality!,positive,0.9536435008049011
+"Battery life is terrible, keeps dying.",negative,0.7755410075187683
+"Just got the new phone, still testing it out.",positive,0.4190540909767151
+This product is fantastic and super reliable!,positive,0.9187707901000977
+Really disappointed with the customer service.,negative,0.4826498031616211
